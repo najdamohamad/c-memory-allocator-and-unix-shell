@@ -1,3 +1,0 @@
-UnitShellTests 0 0
----
-UnitShellTests

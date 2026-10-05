@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -Wall -Werror -std=gnu17   CMakeFiles/ensishell.dir/src/readcmd.c.o CMakeFiles/ensishell.dir/src/ensishell.c.o  -o ensishell  -lreadline -lhistory 

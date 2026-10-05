@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -g -Wall -Werror -std=gnu11 -I/usr/include/python3.8  -shared -Wl,-soname,libmempy.so -o libmempy.so CMakeFiles/mempy.dir/tests/mempymodule.c.o  -Wl,-rpath,/home/corentin/Documents/sepc/ensimag-malloc/build libemalloc.so 

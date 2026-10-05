@@ -1,1 +1,0 @@
-/usr/bin/cc -g -Wall -Werror -std=gnu11 -I/usr/include/python3.8  -rdynamic CMakeFiles/memshell.dir/src/memshell.c.o  -o memshell  -Wl,-rpath,/home/corentin/Documents/sepc/ensimag-malloc/build libemalloc.so 
